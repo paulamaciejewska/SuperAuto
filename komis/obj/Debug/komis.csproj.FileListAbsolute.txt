@@ -1,0 +1,40 @@
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\komis.exe.config
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\komis.exe
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\komis.pdb
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.dll
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.xml
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.csprojResolveAssemblyReference.cache
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\MainWindow.baml
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\MainWindow.g.cs
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\App.g.cs
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis_MarkupCompile.cache
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.g.resources
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.Properties.Resources.resources
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.csproj.GenerateResource.Cache
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.exe
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.pdb
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis_MarkupCompile.lref
+C:\Users\panda\Desktop\bazy danych\baza komis2\komis\komis\obj\Debug\komis.Migrations.Migracja1.resources
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\komis.exe.config
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.exe
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.pdb
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\komis.exe
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\komis.pdb
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.dll
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.xml
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.csprojResolveAssemblyReference.cache
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\MainWindow.g.cs
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\App.g.cs
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis_MarkupCompile.cache
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis_MarkupCompile.lref
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\MainWindow.baml
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.g.resources
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.Migrations.Migracja1.resources
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.Properties.Resources.resources
+D:\Studia\II rok - III semestr - zimowy\bazy danych\baza komis2\komis\komis\obj\Debug\komis.csproj.GenerateResource.Cache
